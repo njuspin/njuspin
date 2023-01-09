@@ -22,31 +22,31 @@
   <p>I'm interested in contributing to all sorts of projects, and learning new computer science fields like neural networks, genetic algorithms, and artificial intelligence.</p>
 </div>
 
-<div align="center">
----------
+---
+
+<div id="lang" align="center">
+  <h4>Languages:</h4>
+  <div id="lang-icons">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" height="50">
+  </div>
 </div>
 
-### Languages:
-<div id="lang-icons">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40">
-</div>
-    
-### Tools:
-<div id="tools-icons">
-  <img src="confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40">
+<div id="tools" align="center">
+  <h4>Tools:</h4>
+  <div id="tools-icons">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" height="50">
+  </div>
 </div>
 
-<div align="center">
-<br>---------
-</div>
+---
 
-<div align="center">
+<div id="contact" align="center">
   <a href="https://www.linkedin.com/in/nicolas-juspin-6b139839">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>

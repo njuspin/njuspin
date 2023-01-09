@@ -15,7 +15,7 @@
 </div>
 <div id="description2" align="center">
   <p>I'm currently focused on learning C++ 20 features, looking forward to C++ 23 features, and I just started Python. :)</p>
-  <p>I'm interested in contributing to all sorts of projects, and learning new computer science fields like neural networks, genetic algorithms, and artificial intelligence.</p>
+  <p>I'm interested in contributing to all sorts of projects, big and small, and learning new computer science fields like neural networks, genetic algorithms, and artificial intelligence.</p>
 </div>
 
 ---

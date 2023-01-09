@@ -9,13 +9,9 @@
   <p>Lately I've decided to go independant and make small retro-like games.</p>
 </div>
 <div id="thumbnails" align="center">
-  <table>
-  <tr>
-    <td><img src="https://github.com/njuspin/njuspin/blob/main/GitProfile_Thumb01.png" width="320" align="left"></td>
-    <td><img src="https://github.com/njuspin/njuspin/blob/main/GitProfile_Thumb02.png" width="320" align="center"></td>
-    <td><img src="https://github.com/njuspin/njuspin/blob/main/GitProfile_Thumb03.png" width="320" align="right"></td>
-  </tr>
-  </table>
+  <img src="https://github.com/njuspin/njuspin/blob/main/GitProfile_Thumb01.png" width="320">
+  <img src="https://github.com/njuspin/njuspin/blob/main/GitProfile_Thumb02.png" width="320">
+  <img src="https://github.com/njuspin/njuspin/blob/main/GitProfile_Thumb03.png" width="320">
 </div>
 <div id="description2" align="center">
   <p>I'm currently focused on learning C++ 20 features, looking forward to C++ 23 features, and I just started Python. :)</p>
